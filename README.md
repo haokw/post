@@ -1,3 +1,3 @@
 # Post
 
-时间飞逝，记录并且留下人生的内容。
+Time flies, record and leave something.
